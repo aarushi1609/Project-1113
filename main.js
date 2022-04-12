@@ -30,3 +30,9 @@ function draw()
     rect(70, 450, 520, 20);
 }
 
+function take_snapshot()
+{
+    save("myPhotoFrame");
+}
+
+
